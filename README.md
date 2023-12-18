@@ -1,4 +1,6 @@
 # project-hub-resume
+# out-of-date
+# will remake later( better )
 for me and maybe(others)
 This is my project hub that also has my resume in it.
 Links - 
